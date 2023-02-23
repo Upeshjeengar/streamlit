@@ -1,3 +1,3 @@
 import streamlit as st
 st.title('hello Upesh')
-st.text('first name')
+st.text_input('first name')
